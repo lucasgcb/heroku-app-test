@@ -1,1 +1,1 @@
-web: python runtime.txt
+web: python run.py
