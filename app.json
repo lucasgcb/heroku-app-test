@@ -1,0 +1,5 @@
+{
+	"name":"Teste Heroku",
+	"description":"Servidor http super simples",
+	"repository":"https://github.com/lucasgcb/heroku-app-test"
+}
