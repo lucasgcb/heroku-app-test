@@ -11,4 +11,6 @@
 
 Logs e outras coisas pertinentes a execução são disponibilizadas pela plataforma Heroku.
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 >Link : servidorzao.herokuapp.com
