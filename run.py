@@ -2,8 +2,9 @@ import http.server
 import socketserver
 import os
 
-PORT = os.environ['PORT']
 
+PORT = int(os.environ["PORT"])
+print(PORT)
 Handler = http.server.SimpleHTTPRequestHandler
 
 with socketserver.TCPServer(("", PORT), Handler) as httpd:
